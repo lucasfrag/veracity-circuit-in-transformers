@@ -1,0 +1,4787 @@
+[
+  {
+    "claim": "1 in 5 million in UK have abnormal PrP positivity.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "32% of liver transplantation programs required patients to discontinue methadone treatment in 2001.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "40mg/day dosage of folic acid and 2mg/day dosage of vitamin B12 does not affect chronic kidney disease (CKD) progression.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "40mg/day dosage of folic acid and 2mg/day dosage of vitamin B12 does not affect chronic kidney disease (CKD) progression.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "76-85% of people with severe mental disorder receive no treatment in low and middle income countries.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A T helper 2 cell (Th2) environment impedes disease development in patients with systemic lupus erythematosus (SLE).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A T helper 2 cell (Th2) environment impedes disease development in patients with systemic lupus erythematosus (SLE).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A T helper 2 cell (Th2) environment impedes disease development in patients with systemic lupus erythematosus (SLE).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A breast cancer patient's capacity to metabolize tamoxifen influences treatment outcome.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A breast cancer patient's capacity to metabolize tamoxifen influences treatment outcome.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A breast cancer patient's capacity to metabolize tamoxifen influences treatment outcome.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A breast cancer patient's capacity to metabolize tamoxifen influences treatment outcome.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A country's Vaccine Alliance (GAVI) eligibility is not indictivate of accelerated adoption of the Hub vaccine.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A deficiency of folate increases blood levels of homocysteine.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve does not solely indicate infertility in an a priori non-infertile population.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve does not solely indicate infertility in an a priori non-infertile population.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve does not solely indicate infertility in an a priori non-infertile population.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve does not solely indicate infertility in an a priori non-infertile population.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve does not solely indicate infertility in an a priori non-infertile population.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve is a very strong indicator of infertility, even in an a priori non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve is a very strong indicator of infertility, even in an a priori non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve is a very strong indicator of infertility, even in an a priori non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve is a very strong indicator of infertility, even in an a priori non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A diminished ovarian reserve is a very strong indicator of infertility, even in an a priori non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "A high microerythrocyte count protects against severe anemia in homozygous alpha (+)- thalassemia trait subjects.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A high microerythrocyte count protects against severe anemia in homozygous alpha (+)- thalassemia trait subjects.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A mutation in HNF4A leads to an increased risk of developing diabetes by the age of 14 years.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A single nucleotide variant the gene DGKK is strongly associated with increased risk of hypospadias.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "A strong bias in the phage genome locations where the spacers were derived has been observed in many CRISPR subtypes that confer the immunity to phage.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "ALDH1 expression is associated with poorer prognosis for breast cancer primary tumors.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "AMP-activated protein kinase (AMPK) activation reduces inflammation-related fibrosis in the lungs.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "AMP-activated protein kinase (AMPK) activation reduces inflammation-related fibrosis in the lungs.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "AMP-activated protein kinase (AMPK) activation reduces inflammation-related fibrosis in the lungs.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "APOE4 expression in iPSC-derived neurons results in decreased tau phosphorylation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "ART has no effect on the infectiveness of HIV-positive people.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "ART has no effect on the infectiveness of HIV-positive people.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "ART has no effect on the infectiveness of HIV-positive people.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "ART substantially reduces infectiveness of HIV-positive people.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "ART substantially reduces infectiveness of HIV-positive people.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "ART substantially reduces infectiveness of HIV-positive people.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Activated Cdk5 phosphorylates the ATM protein in response to DNA damage.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Activated Cdk5 phosphorylates the ATM protein in response to DNA damage.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Activated Cdk5 regulates DNA damage-induced neuronal death.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Activation of PPM1D enhances p53 function.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Activation of PPM1D enhances p53 function.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Activation of the Rac1 homolog CED-10 kills viable cells in SRGP-1 mutant Caenorhabditis elegans.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Active Ly49Q induces neutrophil polarization.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Active Ly49Q induces neutrophil polarization.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Active Ly49Q prevents neutrophil polarization.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Active Ly49Q prevents neutrophil polarization.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Active caspase-11 participate in regulating phagosome-lysosome fusion.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Active caspase-11 protein promotes pyroptosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Active caspase-11 protein promotes pyroptosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Adult tissue-resident macrophages are seeded before birth.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Adult tissue-resident macrophages are seeded before birth.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Adult tissue-resident macrophages are seeded before birth.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Adult tissue-resident macrophages are seeded before birth.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Adult tissue-resident macrophages possess a self-renewing capacity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Aggravated inflammation is dependent on NLRP3 inflammasome activation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Aggravated inflammation is dependent on NLRP3 inflammasome activation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Alirocumab treatment reduces apo(a) fractional clearance rate.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Alirocumab treatment reduces apo(a) fractional clearance rate.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Alirocumab treatment reduces apo(a) fractional clearance rate.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Alirocumab treatment reduces apo(a) fractional clearance rate.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Allogeneic mechanical circulatory support is not as effective as autologous mechanical circulatory support for treating acute myocardial infarction.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Allogeneic mechanical circulatory support is not as effective as autologous mechanical circulatory support for treating acute myocardial infarction.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Allogeneic mechanical circulatory support is not as effective as autologous mechanical circulatory support for treating acute myocardial infarction.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Allogeneic mechanical circulatory support is not as effective as autologous mechanical circulatory support for treating acute myocardial infarction.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Alteration of origin firing causes changes in termination zones of Okazaki fragments.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ambulatory blood pressure monitoring is inaccurate at diagnosing hypertension.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ambulatory blood pressure monitoring is inaccurate at diagnosing hypertension.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ambulatory blood pressure monitoring is inaccurate at diagnosing hypertension.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ambulatory blood pressure monitoring is inaccurate at diagnosing hypertension.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ambulatory blood pressure monitoring is inaccurate at diagnosing hypertension.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Amitriptyline is an effective treatment for chronic tension-type headaches.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "An M2-like phenotype in brown adipose tissue macrophages is quickly induced by cold exposure.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Androgenetic haploid mouse embryonic stem cells (ESCs) can be derived and genetically manipulated in vitro.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Androgenetic haploid mouse embryonic stem cells (ESCs) can be derived and genetically manipulated in vitro.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Angiotensin converting enzyme inhibitors are associated with decreased risk for functional renal insufficiency.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Angiotensin converting enzyme inhibitors are associated with decreased risk for functional renal insufficiency.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Anthrax spores are very difficult to dispose once they are dispersed.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Anthrax spores remain deadly until affected areas are decontaminated.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antidepressants increase the severity of migraines.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antidepressants increase the severity of migraines.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antidepressants increase the severity of migraines.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antidepressants reduce the severity of migraines.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antidepressants reduce the severity of migraines.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antidepressants reduce the severity of migraines.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antimicrobial agents are less effective due to the pressure of antimicrobial usage.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antimicrobial agents are more effective due to the pressure of antimicrobial usage.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antiretroviral therapy increases rates of tuberculosis across a broad range of CD4 strata.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Antiretroviral therapy increases rates of tuberculosis across a broad range of CD4 strata.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Asymptomatic visual impairment screening in elderly populations leads to improved vision.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Autologous transplantation of mesenchymal stem cells has better graft function than induction therapy with anti-interleukin-2 receptor antibodies.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Autologous transplantation of mesenchymal stem cells has better graft function than induction therapy with anti-interleukin-2 receptor antibodies.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Autologous transplantation of mesenchymal stem cells has better graft function than induction therapy with anti-interleukin-2 receptor antibodies.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Autophagy deficiency in the liver increases vulnerability to insulin resistance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Autophagy deficiency in the liver increases vulnerability to insulin resistance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Autophagy deficiency in the liver increases vulnerability to insulin resistance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "B cells go though plasmablast differentiation and antibody production by continuous expression of EBI2.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "B cells go though plasmablast differentiation and antibody production by continuous expression of EBI2.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "BCL-2 activation antagonizes the apoptotic effects of c-Myc.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "BCL-2 promotes the apoptotic effects of c-Myc.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "BLM gene encodes RecQ-class DNA helicase.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "BRCA 1 mutation carriers' risk of breast and ovarian cancer depends on where the mutation is located.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "BRCA 1 mutation carriers' risk of breast and ovarian cancer depends on where the mutation is located.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bacterial meningitis can be diagnosed on the basis of positive cerebrospinal fluid (CSF) cultures.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bariatric surgery increases rates of colorectal cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bariatric surgery increases rates of postmenopausal breast cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bariatric surgery leads to negative outcomes in mental health.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bariatric surgery leads to negative outcomes in mental health.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bariatric surgery leads to positive outcomes in mental health.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bariatric surgery leads to positive outcomes in mental health.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bariatric surgery reduces colorectal cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bariatric surgery reduces postmenopausal breast cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Basophils promote disease development in patients with systemic lupus erythematosus (SLE).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Basophils promote disease development in patients with systemic lupus erythematosus (SLE).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Basophils promote disease development in patients with systemic lupus erythematosus (SLE).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Binding of p53 to enhancer regions (p53BERs) regulates the activity of p53 transcription and cell cycle arrest through the production of p53-dependent eRNAs.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Binding of p53 to enhancer regions (p53BERs) regulates the activity of p53 transcription and cell cycle arrest through the production of p53-dependent eRNAs.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Birth-weight is negatively associated with breast cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Birth-weight is negatively associated with breast cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Birth-weight is negatively associated with breast cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Birth-weight is negatively associated with breast cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Birth-weight is negatively associated with breast cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Birth-weight is negatively associated with breast cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Birth-weight is negatively associated with breast cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Blocking the interaction between TDP-43 and respiratory complex I proteins ND3 and ND6 prevents TDP-43-induced neuronal loss.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Bone marrow cells don't contribute to adult macrophage compartments.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Broadly HIV-1 Neutralizing Antibodies (bnAb) 10EB have no affinity for phospholipids.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "C2 works synergistically with A-769662 to activate dephosphorylated AMPK.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "CCL19 is a ligand for CCR7.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "CD28 initiates tonic signaling in conventional T cells, which causes an exhaustion phenotype and limited efficiency.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "CD28 signals regulate trafficking of murine auto-reactive T cells into target tissues.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "CD28 signals regulate trafficking of murine auto-reactive T cells into target tissues.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "CD44v6 is not associated with constitutive and reprogrammed cancer stem cells driving cancer metastasis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "CD44v6 is not associated with constitutive and reprogrammed cancer stem cells driving cancer metastasis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "CD44v6 is not associated with constitutive and reprogrammed cancer stem cells driving cancer metastasis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "CD44v6 is not associated with constitutive and reprogrammed cancer stem cells driving cancer metastasis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "CD44v6 is not associated with constitutive and reprogrammed cancer stem cells driving cancer metastasis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "COPI coatmer is involved in lipid homeostasis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "COPI coatmer is involved in lipid homeostasis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "COPI coatmer is involved in lipid homeostasis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ca2+ cycling controls whole-body energy homeostasis in beige fat.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ca2+ cycling controls whole-body energy homeostasis in beige fat.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ca2+ cycling is a UCP1-dependent thermogenic mechanism.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ca2+ cycling is a UCP1-dependent thermogenic mechanism.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ca2+ cycling is a UCP1-independent thermogenic mechanism.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ca2+ cycling is a UCP1-independent thermogenic mechanism.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cancer cells can stimulate the accumulation of intra-tumoural myeloid-derived suppressor cells by promoting granulocyte colony stimulating factor production.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cancers that initially benefit from epidermal growth factor receptor targeted therapies later become refractory through several mechanisms.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cardiac tissue-resident macrophages directly contribute to electrical activity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cardiac tissue-resident macrophages directly contribute to electrical activity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cardiac tissue-resident macrophages directly contribute to electrical activity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cardiac tissue-resident macrophages directly contribute to electrical activity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cell autonomous sex determination in somatic cells occurs in Galliformes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cell autonomous sex determination in somatic cells occurs in Galliformes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cell autonomous sex determination in somatic cells occurs in Galliformes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cellular clocks are associated with mitosis timing in NIH 3T3 cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cellular clocks are not predictive of mitosis timing in NIH 3T3 cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cellular differentiation of embryonic stem cells is accompanied by changes in replication timing, transcription and nuclear localization.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Charcoal is an effective treatment for acute paraquat poisoning.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Charcoal shows no benefit for acute paraquat poisoning.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Chenodeoxycholic acid treatment decreases brown adipose tissue activity.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Chenodeoxycholic acid treatment increases brown adipose tissue activity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Chlamydia trachomatis is most prevalent in the UK among sexually-experienced individuals aged 16 to 24.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cholesterol loading induces KLF4 expression in VSMCs, resulting in the expression of pro-inflammatory cytokines.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Citrullinated proteins externalized in neutrophil extracellular traps act indirectly to disrupt the inflammatory cycle.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Citrullinated proteins externalized in neutrophil extracellular traps act indirectly to disrupt the inflammatory cycle.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Citrullinated proteins externalized in neutrophil extracellular traps act indirectly to disrupt the inflammatory cycle.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Citrullinated proteins externalized in neutrophil extracellular traps act indirectly to perpetuate the inflammatory cycle via induction of autoantibodies.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Clathrin stabilizes the spindle fiber apparatus during mitosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Clathrin stabilizes the spindle fiber apparatus during mitosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Clathrin stabilizes the spindle fiber apparatus during mitosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cnn1 recruitment varies with cell cycle timing.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cnn1 recruitment varies with cell cycle timing.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cognitive behavioral therapy is an ineffective treatment for insomnia",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cognitive behavioral therapy is an ineffective treatment for insomnia",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cognitive behavioral therapy is an ineffective treatment for insomnia",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cognitive behavioral therapy is an ineffective treatment for insomnia",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Combination nicotine replacement therapies with varenicline or bupropion are more effective after 12 weeks of reatment compared to varenicline monotherapy.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Commelina yellow mottle virus (ComYMV) has three typical badnavirus ORFs, capable of encoding proteins 23, 15, and 216 kD.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Commelina yellow mottle virus' (ComYMV) genome consists of 2140 baise pairs.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Comparative transcriptome analysis identified new platelet proteins with structural features suggesting a role in platelet function.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Consumption of whole fruits increases the risk of type 2 diabetes.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Converting apoE4 to apoE3 by gene editing prevents the pathology associated with apoE4 in human iPSCderived neurons.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Converting apoE4 to apoE3 by gene editing worsens the pathology associated with apoE4 in human iPSCderived neurons.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cost effectiveness evaluations based on cRCT data accurately reflect prices for patients in actual clinical practice.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cost effectiveness evaluations based on cRCT data accurately reflect prices for patients in actual clinical practice.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cost effectiveness evaluations based on cRCT data lack external validity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cost effectiveness evaluations based on cRCT data lack external validity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cost effectiveness evaluations based on cRCT data lack external validity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cyclin A2 destruction is necessary to switch from unstable to stable kt-mt attachments in mitosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cyclin A2 destruction is necessary to switch from unstable to stable kt-mt attachments in mitosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cyclin A2 destruction is necessary to switch from unstable to stable kt-mt attachments in mitosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Cytochrome c is transferred from cytosol to the mitochondrial intermembrane space during apoptosis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "DRD1 proteins enable Pol V transcription in vivo.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "DUSP4 decreases apoptosis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "DUSP4 downregulation deactivates the Ras-ERK pathway",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "DUSP4 downregulation deactivates the Ras-ERK pathway",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "DUSP4 increases apoptosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Decreased diastolic blood pressure (DBP) is associated with abdominal aortic aneurysm.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Deltex has no known interactions with eIF3f.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Deltex interacts with eIF3. There is no known interaction between Deltex and elF3",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Depletion of T-helper 17 (Th17) cells during simian immunodeficiency virus (SIV) infection decreases dissemination of Salmonella Typhimurium from the gut.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Depletion of T-helper 17 (Th17) cells during simian immunodeficiency virus (SIV) infection decreases dissemination of Salmonella Typhimurium from the gut.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Depletion of T-helper 17 (Th17) cells during simian immunodeficiency virus (SIV) infection increases dissemination of Salmonella Typhimurium from the gut.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Depletion of T-helper 17 (Th17) cells during simian immunodeficiency virus (SIV) infection increases dissemination of Salmonella Typhimurium from the gut.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Depletion of nitric oxide is responsible for vasospasm.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Depletion of nitric oxide is responsible for vasospasm.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Depletion of nitric oxide is responsible for vasospasm.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Deregulation of HAND2 is a crucial step in endometrial carcinogenesis in mice.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Dexamethasone increases risk of postoperative bleeding.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Dexamethasone increases risk of postoperative bleeding.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Dexamethasone increases risk of postoperative bleeding.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diabetes remission occurs less in people treated with conventional therapy than in people treated with laparoscopic adjustable gastric banding surgery.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diabetes remission occurs less in people treated with conventional therapy than in people treated with laparoscopic adjustable gastric banding surgery.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diabetes remission occurs less in people treated with conventional therapy than in people treated with laparoscopic adjustable gastric banding surgery.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diabetes remission occurs more in people treated with conventional therapy than in people treated with laparoscopic adjustable gastric banding surgery.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diabetes remission occurs more in people treated with conventional therapy than in people treated with laparoscopic adjustable gastric banding surgery.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diabetes remission occurs more in people treated with conventional therapy than in people treated with laparoscopic adjustable gastric banding surgery.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diabetic patients with acute coronary syndrome experience decreased short-term and long-term risk for bleeding events.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Differentiation of progenitor cells to myeloid cells is skewed upon activation of insulin signaling.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Differentiation of progenitor cells to myeloid cells is skewed when insulin signaling is suppressed.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diminished ovarian reserve is a reliable indicator of infertility in a non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diminished ovarian reserve is a reliable indicator of infertility in a non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diminished ovarian reserve is a reliable indicator of infertility in a non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Diminished ovarian reserve is a reliable indicator of infertility in a non-infertile population.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Drosophila supracellular actomyosin structures are found at boundaries in wing imaginal discs.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Drosophila supracellular actomyosin structures are found at boundaries in wing imaginal discs.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Dscam1 acts as a hypervariable pattern-recognition receptor for the immune system.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Dscam1 acts as a hypervariable pattern-recognition receptor for the immune system.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Dscam1 acts as a hypervariable pattern-recognition receptor for the immune system.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Dscam1 acts as a hypervariable pattern-recognition receptor for the immune system.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "ERAP1 SNPs are epistatic to HLA alleles for ankylosing spondylitis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Early patent ductus ateriosus (PDA) screening decreases in-hospital mortality.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Early patent ductus ateriosus (PDA) screening decreases in-hospital mortality.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Early patent ductus ateriosus (PDA) screening increases in-hospital mortality.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Early patent ductus ateriosus (PDA) screening increases in-hospital mortality.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ectopic expression of Sall4, Nanog, Esrrb, and Lin28 generates induced pluripotent stem cells from mouse embryonic fibroblasts more efficiently than other factor combinations.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Egr2 regulates the homeostasis of B and T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Egr2 regulates the homeostasis of B and T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Egr2 regulates the homeostasis of B and T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Egr2 regulates the homeostasis of B and T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Egr3 regulates the homeostasis of B and T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Egr3 regulates the homeostasis of B and T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Egr3 regulates the homeostasis of B and T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Egr3 regulates the homeostasis of B and T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Eilat virus (EILV) produced in mosquitos elicits rapid and long-lasting neutralizing antibodies in nonhuman primates.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Elevated cell-free mitochondrial DNA levels are associated with mortality.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Elevated cell-free mitochondrial DNA levels are associated with mortality.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Elevated cell-free mitochondrial DNA levels are associated with mortality.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Energy balance requires hypothalamic glutamate neurotransmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Enhanced early production of inflammatory chemokines damages viral control in the lung.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Environmental factors can influence the development of breast cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Environmental factors can influence the development of breast cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Environmentally-induced senescence is mimicked in disease modeling by adding specific molecules to the culture system.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Environmentally-induced senescence is mimicked in disease modeling by adding specific molecules to the culture system.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Excess gestational weight gain is associated with obesity-related pregnancy outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Excess gestational weight gain is associated with obesity-related pregnancy outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Excess gestational weight gain is associated with obesity-related pregnancy outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Exercise increases cancer mortality rates among Chinese citizens.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Exercise increases cancer mortality rates among Chinese citizens.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Exercise increases cancer mortality rates among Chinese citizens.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Exercise reduces cancer mortality rates among Chinese citizens.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Exercise reduces cancer mortality rates among Chinese citizens.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Exercise reduces cancer mortality rates among Chinese citizens.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Exposure to fine particulate air pollution is unrelated to anxiety prevalence.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Exposure to fine particulate air pollution is unrelated to anxiety prevalence.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have decreased risk for dementia.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for Alzheimer's disease.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have longer lifetime exposure to estrogen due to an increased reproductive period.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have shorter lifetime exposure to estrogen due to a decreased reproductive period.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Fibroblast growth factor 21 protects against atherosclerosis by modulating adiponectin and SREBP2 levels.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Forkhead 0 (fox0) transcription factors are involved in apoptosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Forkhead 0 (fox0) transcription factors are involved in cellular differentiation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "FoxO3a activation in neuronal death is inhibited by reactive oxygen species (ROS).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Foxk2 regulates autophagy genes in muscle cells and fibroblast cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Foxk2 regulates autophagy genes in muscle cells and fibroblast cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "G-CSF increases the expansion and infiltration of MDSCs into tumors.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "GATA3 regulates cell cycle progression in bone marrow hematopoietic stem cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "GATA3 regulates self-renewal capacity in bone marrow hematopoietic stem cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "GATA3 regulates self-renewal capacity in bone marrow hematopoietic stem cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Gastric infection with Helicobacter pylori decreases risk of gastric cancer in humans.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Gastric infection with Helicobacter pylori decreases risk of gastric cancer in humans.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Gastric infection with Helicobacter pylori increases risk of gastric cancer in humans.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Gastric infection with Helicobacter pylori increases risk of gastric cancer in humans.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "General exercise therapy is more effective than rotator cuff exercises in reducing pain and improving function of the shoulder.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "General exercise therapy is more effective than scapular stabilizer exercises in reducing pain and improving function of the shoulder.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "General exercise therapy is more effective than scapular stabilizer exercises in reducing pain and improving function of the shoulder.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "General exercise therapy is more effective than scapular stabilizer exercises in reducing pain and improving function of the shoulder.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Genes involved in pre-mRNA splicing have a significant impact on genome stability.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Genetic deficiency of mast cells leads to decreased weight gain in a mouse model of diet-induced obesity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Genetic deletion of JAM-A increases gut permeability.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Genomic aberrations of metastases provide information for targeted therapy.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Genomic sequences involved in alternative splicing responsible for Hutchinson-Gilford progeria syndrome (HGPS) are abundant in the ''progerinonly'' allele of Lmna knock-in models.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Glial calcium waves influence seizures.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Glioblastoma multiforme (GBM) is characterized by extensive invasion, rapid growth, necrosis, and angiogenesis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Gpr124 increases BBB breakdown in mouse models of ischemic stroke.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Gpr124 suppresses BBB breakdown in mouse models of ischemic stroke.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Guanine nucleotide exchange factors (GEFs) mediate RhoA activation in response to tensional forces on fibronectin-binding integrins.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "H.pylori-mediated gastric cancer occurs due to the accumulation of mutations in host epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "H.pylori-mediated gastric cancer occurs due to the accumulation of mutations in host epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "HAND2 methylation is a key step in early endometrial carcinogenesis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "HAND2 methylation is a key step in early endometrial carcinogenesis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "HAND2 methylation is a key step in early endometrial carcinogenesis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "HAND2 methylation is a key step in early endometrial carcinogenesis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Having a main partner improves HIV outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Having a main partner improves HIV outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Having a main partner worsens HIV outcomes.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Having a main partner worsens HIV outcomes.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "HbA1c consistently overestimates glycemic control in black individuals with Sickle cell trait (SCT).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "HbA1c consistently overestimates glycemic control in black individuals with Sickle cell trait (SCT).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "HbA1c consistently overestimates glycemic control in black individuals with Sickle cell trait (SCT).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "HbA1c consistently overestimates glycemic control in black individuals with Sickle cell trait (SCT).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "HbA1c consistently overestimates glycemic control in black individuals with Sickle cell trait (SCT).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Headaches are correlated with cognitive impairment.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Healthy volunteers exhibit rapid and transient increase of cellular ATP after being bolus-injected with fructose.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Helicobacter pylori-induced aberrant NF-kB-dependent expression of activation-induced cytidine deaminase contributes to the mutagenesis of host DNA.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Helicobacter pylori-induced aberrant NF-kB-dependent expression of activation-induced cytidine deaminase contributes to the mutagenesis of host DNA.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Helminths interfere with immune system control of coinfections by microbial pathogens 16.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Helminths interfere with immune system control of coinfections by microbial pathogens 16.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Helminths interfere with immune system control of coinfections by microbial pathogens 16.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "High levels of CRP lead to a higher risk of exacerbations in chronic obstructive pulmonary disease (COPD).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "High levels of CRP lead to a higher risk of exacerbations in chronic obstructive pulmonary disease (COPD).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Higher plasma levels of I-carnitine, when associated with trimethylamine N-oxide, are negatively correlated with cardiovascular events in humans.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Higher plasma levels of I-carnitine, when associated with trimethylamine N-oxide, are negatively correlated with cardiovascular events in humans.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Higher plasma levels of I-carnitine, when associated with trimethylamine N-oxide, are positively correlated with cardiovascular events in humans.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Higher plasma levels of I-carnitine, when associated with trimethylamine N-oxide, are positively correlated with cardiovascular events in humans.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells give rise to cell types from all three embryonic germ layers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells give rise to cell types from all three embryonic germ layers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells give rise to cell types from all three embryonic germ layers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells give rise to cell types from all three embryonic germ layers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells give rise to cell types from the outer embryonic germ layer, but not the other two layers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells give rise to cell types from the outer embryonic germ layer, but not the other two layers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells give rise to cell types from the outer embryonic germ layer, but not the other two layers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells give rise to cell types from the outer embryonic germ layer, but not the other two layers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells have the capacity to give rise to differentiated progeny representative of all three embryonic germ layers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells have the capacity to give rise to differentiated progeny representative of all three embryonic germ layers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Human embryonic stem cells have the capacity to give rise to differentiated progeny representative of all three embryonic germ layers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Hypocretin neurones suppress panicprone state in rats.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Hypothalamic glutamate neurotransmission is unrelated to energy balance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Hypothalamic glutamate neurotransmission is unrelated to energy balance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Hypothalamic glutamate neurotransmission is unrelated to energy balance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "IFI16 impedes STING phosphorylation and translocation, resulting in reduced activation of STING.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "IL-10 production by monocytes inhibits CD4 + T cell response.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "IL-10 production by monocytes inhibits CD4 + T cell response.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "IL-6 signaling plays a major role in atherosclerotic cardiovascular disease.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "IL-6 signaling plays a major role in atherosclerotic cardiovascular disease.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "IgA plasma cells that are specific for transglutaminase 2 are scarce in the duodenal mucosa of celiac disease patients when the disease is active.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Immune responses in immune cells are geographically segregated.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Improvements in OER catalysts show stable activity over several hundred hours.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In British Men, haplogroup I decreases risk of cardiovascular disease.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "In British Men, haplogroup I increases risk of cardiovascular disease by 50%.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In S. cerevisiae, the absence of RNA surveillance pathways causes sensitivity to high iron conditions.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In S. cerevisiae, the absence of RNA surveillance pathways causes sensitivity to high iron conditions.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In S. cerevisiae, the absence of RNA surveillance pathways causes sensitivity to high iron conditions.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In S. cerevisiae, the absence of RNA surveillance pathways reduces sensitivity to high iron conditions.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "In S. cerevisiae, the absence of RNA surveillance pathways reduces sensitivity to high iron conditions.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "In S. cerevisiae, the absence of RNA surveillance pathways reduces sensitivity to high iron conditions.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "In a naive state, blocking Wingless-Int-1 secretion from mouse embryonic stem cells inhibits self-renewal of the mouse embryonic stem cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In a naive state, blocking Wingless-Int-1 secretion from mouse embryonic stem cells inhibits self-renewal of the mouse embryonic stem cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In a naive state, blocking Wingless-Int-1 secretion from mouse embryonic stem cells inhibits self-renewal of the mouse embryonic stem cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In breast cancer, the loss of myoepithelial cells promotes the transition of ductal carcinoma in situ to invasive carcinoma.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In breast cancer, the loss of myoepithelial cells promotes the transition of ductal carcinoma in situ to invasive carcinoma.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In breast cancer, the loss of myoepithelial cells slows the transition of ductal carcinoma in situ to invasive carcinoma.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "In breast cancer, the loss of myoepithelial cells slows the transition of ductal carcinoma in situ to invasive carcinoma.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "In melanoma, anti-CTLA-4 treatment reinvigorates exhausted PD-1+Eomes+CD8 T cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In patients with congenital heart defects, \u03b2-blockers significantly improve clinical heart failure outcomes.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "In pediatric tissue, most T cells are naive T cell emigrants from the thymus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In rhesus macaques, daily subcutaneous injections of tenofovir protects against rectally transmitted simian-human immunodeficiency virus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "In young and middle-aged adults, current or remote uses of ADHD medications increase the risk of serious cardiovascular events.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "In young and middle-aged adults, current or remote uses of ADHD medications increase the risk of serious cardiovascular events.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Incidence of 10/66 dementia is higher than the incidence of DSM-IV dementia.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Incidence of 10/66 dementia is lower than the incidence of DSM-IV dementia.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Incidence of heart failure increased by 10% in women since 1979.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Incidence of sepsis has fallen substantially from 2009 to 2014.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Incidence of sepsis has fallen substantially from 2009 to 2014.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Including pharmacists in rounding teams does not alter the incidence of adverse drug events (ADEs).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Including pharmacists in rounding teams does not alter the incidence of adverse drug events (ADEs).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Including pharmacists in rounding teams reduces the incidence of adverse drug events (ADEs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Including pharmacists in rounding teams reduces the incidence of adverse drug events (ADEs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Increased LDL receptors plays a role in the reduction of plasma Lp(a).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Increased LDL receptors plays a role in the reduction of plasma Lp(a).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Increased diastolic blood pressure (DBP) is associated with abdominal aortic aneurysm.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Increased microtubule acetylation exacerbates LRRK2 Roc-COR domain mutation induced locomotor deficits.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Increased microtubule acetylation repairs interference of axonal transport caused by LRRK2 Roc-COR domain mutations.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Increased microtubule acetylation repairs interference of axonal transport caused by LRRK2 Roc-COR domain mutations.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Increased microtubule acetylation worsens interference of axonal transport caused by LRRK2 Roc-COR domain mutations.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Increased microtubule acetylation worsens interference of axonal transport caused by LRRK2 Roc-COR domain mutations.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Individuals with Alzheimers who participate in six months of physical activity improve cognitive function for up to 18 months.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Individuals with Alzheimers who participate in six months of physical activity improve cognitive function for up to 18 months.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Induced hepatic stem cells possess the potential to differentiate into cholangiocytic cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Induced hepatic stem cells possess the potential to differentiate into cholangiocytic cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Induced hepatic stem cells possess the potential to differentiate into hepatocytic cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Induction of urokinase receptor signaling in podocytes causes foot process effacement and proteinuria.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inhibiting HDAC6 increases survival of mice with ARID1A mutated tumors.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inhibiting focal adhesion formation enables cells to convert mechanical strain into eventual scarring.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inhibiting focal adhesion formation enables cells to convert mechanical strain into eventual scarring.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inhibiting focal adhesion formation enables cells to convert mechanical strain into eventual scarring.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inhibiting focal adhesion formation enables cells to convert mechanical strain into eventual scarring.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inhibiting focal adhesion formation increases the rate at which cells convert mechanical strain into inflammation and fibrosis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inhibiting focal adhesion formation increases the rate at which cells convert mechanical strain into inflammation and fibrosis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inhibiting glucose-6-phospate dehydrogenase improves lipogenesis by deactivating LKB1-AMPK signaling.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inside the body, falciparum parasites reproduce asexually.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Inside the body, falciparum parasites reproduce asexually.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Insulin effects appetite via ventral tegmental neurons.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Intake of folic acid (FA) and vitamin B6 (VB6) increases levels of homocysteine.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Intake of folic acid (FA) and vitamin B6 (VB6) reduces levels of homocysteine.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Integrated care is ineffective at tackling multiple comorbidities.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Integrated care is ineffective at tackling multiple comorbidities.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Integrated care is ineffective at tackling multiple comorbidities.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Integrated care is successful at tackling multiple comorbidities.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Integrated care is successful at tackling multiple comorbidities.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Integrated care is successful at tackling multiple comorbidities.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Interleukin-18 plays an important role in the pathogenesis of atherosclerosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Interleukin-18 plays an important role in the pathogenesis of atherosclerosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Interleukin-18 plays an important role in the pathogenesis of atherosclerosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Intramembrane cleavage by signal peptide peptidase aids in the degradation of proteins with a complex membrane orientation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "JMJD6 catalyzes the hydroxylation of C-terminal lysine and supresses transcriptional activity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "JMJD6 slows the hydroxylation of C-terminal lysine",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "KLF4 is necessary for VSMCs to gain genetic characteristics of other cell types within atherosclerotic lesions.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "KRT17 modulates the expression of the transcriptional regulator AIRE in diseased epithelia.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "KRT17 modulates the expression of the transcriptional regulator AIRE in diseased epithelia.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Kir7.1 modulates channel activity by the G protein-coupled melanocortin-4 receptor (MC4R) in the paraventricular nucleus of the hypothalamus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf2 is important for proper myeloid cell function.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf2 is important for proper myeloid cell function.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf2 is important for proper myeloid cell function.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf4 is important for proper myeloid cell differentiation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf4 is important for proper myeloid cell differentiation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf4 is important for proper myeloid cell differentiation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf4 is important for proper myeloid cell differentiation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf4 is not required for proper myeloid cell differentiation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf4 is not required for proper myeloid cell differentiation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf4 is not required for proper myeloid cell differentiation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Klf4 is not required for proper myeloid cell differentiation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Knockout proximal tubule-specific deletion of the BMP receptor Alk3 causes epithelial damage.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Knockout proximal tubule-specific deletion of the BMP receptor Alk3 causes epithelial damage.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Knockout proximal tubule-specific deletion of the BMP receptor Alk3 causes fibrosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "LDL cholesterol has a causal role in the development of cardiovascular disease.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lack of FGF21 in mice increases life expectancy.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lack of FGF21 in mice leads to atherosclerotic plaque formation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lack of FGF21 in mice leads to atherosclerotic plaque formation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lack of FGF21 in mice leads to atherosclerotic plaque formation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lack of FGF21 in mice leads to reduced lifespan.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lack of FGF21 in mice slows the rate of atherosclerotic plaque formation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lack of FGF21 in mice slows the rate of atherosclerotic plaque formation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lack of FGF21 in mice slows the rate of atherosclerotic plaque formation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Lice attenuated SIV vaccines induce a stronger antigen-specific T cell response in lymph node cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Long chain polyunsaturated fatty acids supplementation is associated with lower rates of atopic eczema at 1 year.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Long chain polyunsaturated fatty acids supplementation is associated with lower rates of atopic eczema at 1 year.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Low nucleosome occupancy correlates with high methylation levels across species.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ly49Q directs the organization of neutrophil polarization by regulating membrane raft functions.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ly49Q directs the organization of neutrophil polarization by regulating membrane raft functions.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ly6C hi monocytes have a higher inflammatory capacity than Ly6C lo monocytes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ly6C hi monocytes have a higher inflammatory capacity than Ly6C lo monocytes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MEK inhibitors are effective treatments in RAS-driven mouse models of cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MFGE8 regulates fat absorption by binding to av-Beta3 and av-Beta5 integrins.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics in many cell types.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics in many cell types.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics in many cell types.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MICAL redox enzymes regulate actin dynamics.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MUC1-C activates the NF-\u03baB p65 signaling pathway by interacting with I\u03baB kinase \u00df.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MafA phosphorylation decreases its ubiquitination.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "MafA phosphorylation enhances its ubiquitination.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "MafA ubiquitination decreases the recruitment of coavtivator P/CAF by MafA.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "MafA ubiquitination increases the recruitment of coavtivator P/CAF by MafA.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Major antigen-induced signals from the T cell receptor and secondary signals from costimulatory receptors are required for T cell activation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Major vault protein (MVP) leads to more aggressive tumors by regulating the sorting of tumor suppressive miR-193a into extracellular vesicles (EVs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Major vault protein (MVP) leads to more aggressive tumors by regulating the sorting of tumor suppressive miR-193a into extracellular vesicles (EVs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Major vault protein regulates sorting of tumor suppressive miR-193a into EVs.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have only a modest impact in reducing malaria transmission.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Medications to treat obesity are highly effective.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Medications to treat obesity are highly effective.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Medications to treat obesity do not have side effects.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Medications to treat obesity do not have side effects.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Medications to treat obesity do not have side effects.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Medications to treat obesity have unwanted side effects.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Medications to treat obesity have unwanted side effects.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Medications to treat obesity have unwanted side effects.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Men are more susceptible to death due to pneumonia when compared to women.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in similar efficacy and better quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice are incapable of producing neutralizing antibodies in reponse to the Chikungunya virus (CHIKV) produced in mosquitos.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice lacking Sirt1 in Sf1-expressing neurons are immune to diet-induced obesity and insulin resistance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice lacking Sirt1 in Sf1-expressing neurons are immune to diet-induced obesity and insulin resistance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice lacking Sirt1 in Sf1-expressing neurons have increased susceptibility to diet-induced obesity and insulin resistance.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice lacking Sirt1 in Sf1-expressing neurons have increased susceptibility to diet-induced obesity and insulin resistance.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice that lack Interferon-\u03b3 or its receptor are highly susceptible to experimental autoimmune myocarditis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice that lack Interferon-\u03b3 or its receptor are highly susceptible to experimental autoimmune myocarditis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice that lack Interferon-\u03b3 or its receptor are highly susceptible to experimental autoimmune myocarditis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice that lack Interferon-\u03b3 or its receptor are highly susceptible to experimental autoimmune myocarditis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice that lack Interferon-\u03b3 or its receptor are highly susceptible to experimental autoimmune myocarditis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice without IFN-\u03b3 or its receptor are highly susceptible to EAM induced with \u03b1-MyHC/CFA.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mice without IFN-\u03b3 or its receptor are highly susceptible to EAM induced with \u03b1-MyHC/CFA.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Microcin J25 encourages nucleoside triphosphate (NTP) binding.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Microcin J25 inhibits nucleoside triphosphate (NTP) binding.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Microglia are an innate immune cell type of the central nervous system.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Microglia are an innate immune cell type of the central nervous system.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Microglia are an innate immune cell type of the peripheral nervous system.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Microglia are an innate immune cell type of the peripheral nervous system.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Migraine with aura is associated with ischemic stroke.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Migraine with aura is associated with ischemic stroke.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Misunderstandings between doctors and patients can lead to non-adherence.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mitochondria play a major role in apoptosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mitochondria play a major role in energy production.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mitochondria play a trivial role in calcium homeostasis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Monoclonal antibody targeting of N-cadherin encourages castration resistance.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Monoclonal antibody targeting of N-cadherin encourages metastasis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Monoclonal antibody targeting of N-cadherin encourages metastasis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Monoclonal antibody targeting of N-cadherin inhibits castration resistance.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Monoclonal antibody targeting of N-cadherin inhibits growth.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Most termination events in Okazaki fragments are dictated by initiation patterns.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mouse models can be generated using \"artificial spermatids.\"",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mutant mice lacking SVCT2 have severely reduced ascorbic acid levels in both brain and adrenals.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mutant mice lacking SVCT2 have severely reduced ascorbic acid levels in both brain and adrenals.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mutations in RIM1 decrease levels of IME1 RNA.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mutations in RIM1 decrease levels of IME1 RNA.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mutations in RIM1 raise levels of IME1 RNA.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Mutations in RIM1 raise levels of IME1 RNA.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Myelin sheaths play a role in action potential propagation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Myelin sheaths play a role in action potential propagation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "N348I mutations cause resistance to nevirapine.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "N348I mutations reduce resistance to nevirapine.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "NR5A2 does not play a role in development of endometrial tissues.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "NR5A2 does not play a role in development of endometrial tissues.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Natriuretic peptides increase susceptibility to diabetes.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Natriuretic peptides protect against diabetes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Natriuretic peptides protect against diabetes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Neutrophil extracellular trap (NET) antigens may contain the targeted autoantigens PR3 and MPO.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Neutrophils produce IL-1\u03b2 in response to large particles.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonhuman primates are incapable of producing neutralizing antibodies in reponse to the Eilat virus (EILV) produced in mosquitos.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonhypertensive people who are 55 years old have a 90% chance of developing hypertension during their lifetime.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonhypertensive people who are 55 years old have a 90% chance of developing hypertension during their lifetime.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Noninvasive positive pressure ventilation is not predictive of acute respiratory failure after solid organ transplantation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Noninvasive positive pressure ventilation is not predictive of acute respiratory failure after solid organ transplantation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Noninvasive positive pressure ventilation is not predictive of acute respiratory failure after solid organ transplantation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Noninvasive positive pressure ventilation is not predictive of acute respiratory failure after solid organ transplantation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonsteroidal antinflammatory drugs are ineffective as cancer treatments.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonsteroidal antinflammatory drugs are ineffective as cancer treatments.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonsteroidal antinflammatory drugs are ineffective as cancer treatments.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonsteroidal antinflammatory drugs show potential anticancer indications.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonsteroidal antinflammatory drugs show potential anticancer indications.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Nonsteroidal antinflammatory drugs show potential anticancer indications.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Normal expression of RUNX1 causes tumorsupressing effects.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Normal granulomas form in the absence of TNF in Zebrafish.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Normal granulomas form in the absence of TNF in Zebrafish.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Normal granulomas form in the presence of TNF in Zebrafish.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Normal granulomas form in the presence of TNF in Zebrafish.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Notch signaling occurs between tumor cells and stromal cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Notch signaling occurs between tumor cells and stromal cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Notch signaling occurs between tumor cells and stromal cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Oat tolerant coeliac patients may have oat specific inflammatory cells in their small bowel mucosa.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Omnivores produce less trimethylamine N-oxide from dietary I-carnitine than vegans.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Omnivores produce more trimethylamine N-oxide from dietary I-carnitine than vegans.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Omnivores produce more trimethylamine N-oxide from dietary I-carnitine than vegetarians.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "One in five surgical randomized controlled trials are discontinued early.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "One in five surgical randomized controlled trials are discontinued early.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "One in two surgical randomized controlled trials are discontinued early.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "One in two surgical randomized controlled trials are discontinued early.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Osteocytes have an essential role in G-CSF induced HSPC mobilization.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Osteocytes have an essential role in G-CSF induced HSPC mobilization.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "PCSK9 inhibitors decrease plasma Lp(a) levels.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "PCSK9 inhibitors decrease plasma Lp(a) levels.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "PD-1 triggering on monocytes enhances IL-10 production by monocytes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "PD-1 triggering on monocytes enhances IL-10 production by monocytes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "PKG-la does not have a large impact on expression of pain hypersensitivity in PGK-la knockout mice.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "PKG-la does not have a large impact on expression of pain hypersensitivity in PGK-la knockout mice.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "PKG-la does not have a large impact on expression of spinal long term potentiation in PGK-la knockout mice.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "PKG-la plays an essential role in expression of spinal long term potentiation in PGK-la knockout mice.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "PTEN is a regulator for the transcriptional activity of SRF",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "PTEN is a regulator for the transcriptional activity of SRF",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "PTEN is a regulator for the transcriptional activity of SRF",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Participants who quit smoking reduce lung cancer risk by approximately 50%.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients in stable partnerships have a slower progression from HIV to AIDS.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients in stable partnerships have a slower progression from HIV to AIDS.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients in stable partnerships progress from HIV to death at the same rate as patients not in partnerships.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients in stable partnerships progress from HIV to death at the same rate as patients not in partnerships.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with common epithelial cancers  are more likely to have an emergency event as their first hospital admission if they live in resource-deprived areas.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with common epithelial cancers  are more likely to have an emergency event as their first hospital admission if they live in resource-deprived areas.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with common epithelial cancers are less likely to have an emergency event as their first hospital admission if they live in resource-deprived areas.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with common epithelial cancers are less likely to have an emergency event as their first hospital admission if they live in resource-deprived areas.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with microcytosis and higher erythrocyte count are more vulnerable to severe malarial anaemia when infected with Plasmodium falciparum.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with microcytosis and higher erythrocyte count are more vulnerable to severe malarial anaemia when infected with Plasmodium falciparum.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with microcytosis and higher erythrocyte count are more vulnerable to severe malarial anaemia when infected with Plasmodium falciparum.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with microcytosis and higher erythrocyte count were more resistant to severe malarial anaemia when infected with Plasmodium falciparum.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with microcytosis and higher erythrocyte count were more resistant to severe malarial anaemia when infected with Plasmodium falciparum.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with microcytosis and higher erythrocyte count were more resistant to severe malarial anaemia when infected with Plasmodium falciparum.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Patients with panic anxiety show decreased CSF levels of hypocretin.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pediatric SCD patients with vaso-occlusive crisis show increased morphine use after breathing 80 ppm iNO for 4 hours.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Peroxynitrite is required for induction of T cell tolerance.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pharmacist attendance at ward rounds increases adverse events in wards.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pharmacist attendance at ward rounds increases adverse events in wards.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pharmacist attendance at ward rounds reduces adverse events in wards.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pharmacist attendance at ward rounds reduces adverse events in wards.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Phase information is useful for predicting donor-recipient matches in organ transplantation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Physical activity does not improve cognitive function in individuals with Alzheimers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Physical activity does not improve cognitive function in individuals with Alzheimers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Piezo1 channels are sensors for cell migration in epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Piezo1 channels are sensors for cell migration in epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Piezo1 channels are sensors for cell migration in epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Piezo1 channels are sensors for cell migration in epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioglitazone use is not associated with an increased risk of prostate cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioglitazone use is not associated with an increased risk of prostate cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioglitazone use is significantly associated with an increased risk of pancreatic cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioglitazone use is significantly associated with an increased risk of pancreatic cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioglitazone use is significantly associated with an increased risk of pancreatic cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioglitazone use is significantly associated with an increased risk of prostate cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioglitazone use is significantly associated with an increased risk of prostate cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioneer factor OCT3/4 interacts with major chromatin remodeling factors.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pioneer factor OCT3/4 interacts with major chromatin remodeling factors.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Polymeal nutrition increases cardiovascular mortality.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Polymeal nutrition increases cardiovascular mortality.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Post-transcriptional handling of mitochondrial transcripts occurs in mitochondrial RNA granules.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Post-transcriptional handling of mitochondrial transcripts occurs in mitochondrial RNA granules.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Post-transcriptional handling of mitochondrial transcripts occurs in mitochondrial RNA granules.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Post-transcriptional handling of mitochondrial transcripts occurs in mitochondrial RNA granules.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pre-mRNAs associated with spliceosomal components are less stable than unassociated splicing substrates.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pre-mRNAs associated with spliceosomal components are more stable than unassociated splicing substrates.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Prescribed exercise training improves quality of life.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Prescribed exercise training improves quality of life.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Prescribed exercise training improves quality of life.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cancer screening with HPV detection has lower longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cancer screening with HPV detection has lower longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cancer screening with HPV detection has lower longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cancer screening with HPV detection has lower longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cancer screening with HPV detection has lower longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cancer screening with HPV detection has lower longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cancer screening with HPV detection has lower longitudinal sensitivity than conventional cytology to detect cervical intraepithelial neoplasia grade 2.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cytology screening with HPV detection has higher longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cytology screening with HPV detection has higher longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cytology screening with HPV detection has higher longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cytology screening with HPV detection has higher longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cytology screening with HPV detection has higher longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cytology screening with HPV detection has higher longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cytology screening with HPV detection has higher longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Primary cervical cytology screening with HPV detection has higher longitudinal sensitivity to detect severe cervical intraepithelial neoplasia than conventional cytology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pro-inflammatory cytokines are up regulated during tumor development.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Progerin induces premature aging in stem cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Progerin induces premature aging in stem cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Propriospinal interneurons that play a role in the plastic reorganization of spinal circuits are integral for recovery from spinal cord injury.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Propriospinal interneurons that play a role in the plastic reorganization of spinal circuits are integral for recovery from spinal cord injury.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pseudogene PTENP1 encodes a transcript that regulates PTEN expression.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pyridostatin decreases telomere fragility in BRCA2-deficient cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pyridostatin deregulates G2/M progression.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pyridostatin encourages proliferation of homologous recombination - defective cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pyridostatin induces checkpoint activation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pyridostatin induces double-strand breaks accumulation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pyridostatin prevents double-strand breaks accumulation.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pyridostatin reduces proliferation of homologous recombination - defective cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Pyridostatin stabilizes the G - quadruplex in the telomeric region.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RAD52 is involved in break-induced DNA replication (BIR).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RAD52 is involved in break-induced DNA replication (BIR).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RAD52 is involved in break-induced DNA replication (BIR).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RAD52 is involved in break-induced DNA replication (BIR).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling has no known association with development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling has no known association with development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling has no known association with development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling has no known association with development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling has no known association with development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling has no known association with development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling has no known association with development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling has no known association with development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling is linked to development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling is linked to development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling is linked to development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling is linked to development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling is linked to development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling is linked to development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling is linked to development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RANK-RANKL pathway signalling is linked to development of Aire-expressing medullary thymic epithelial cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RTEL1 interacts with TRF2 through a C4C4 motif",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RUNX1 is downregulated or mutated in TLX1 T-ALL.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "RUNX1 is downregulated or mutated in TLX1 T-ALL.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Radioiodine treatment of non-toxic multinodular goitre increases thyroid volume.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Radioiodine treatment of non-toxic multinodular goitre increases thyroid volume.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Rapamycin delays aging in fruit flies.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Rapid phosphotransfer rates are correlated with histidine kinase regulator specificity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Recognition of start codons depends on the translation initiation factor IF3.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with autoimmune diseases such as Type 1 Diabetes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with autoimmune diseases such as Type 1 Diabetes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Reducing H3k4me3 methylation induces mouse epiblast stem cells to naive pluripotency efficiently.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Reduction of Rpl38 alters the composition of the Hox gene mRNAs translation in mice without lowering overall protein synthesis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Removal of H3K9me3 by ectopic expression of other H3K9 demethylases decreases reprogramming efficiency in SCNT experiments.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Removal of H3K9me3 by ectopic expression of other H3K9 demethylases improves reprogramming efficiency in SCNT experiments.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Removal of H3K9me3 improves reprogramming efficiency in human somatic cell nuclear transfer experiments.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Replacement of histone H2A with H2A.Z accelerates gene activation in yeasts by destabilizing +1 nucleosomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Repressing IL-18 has negative effects on atherosclerotic lesion composition and progression.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Repressing IL-18 has negative effects on atherosclerotic lesion composition and progression.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Retinoic acid receptor-related orphan receptor gamma (ROR\u03b3) is a therapeutic target for castration-resistant prostate cancer (CRPC)",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Retinoic acid receptor-related orphan receptor gamma (ROR\u03b3) is a therapeutic target for castration-resistant prostate cancer (CRPC)",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Rhythmic expression of Cry1 translates directly into a circadian regulation of cAMP signaling in gluconeogenesis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Rhythmic expression of Cry1 translates directly into a circadian regulation of cAMP signaling in gluconeogenesis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Rhythmic expression of Cry1 translates directly into a circadian regulation of cAMP signaling in hepatic glucose metabolism.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Rhythmic expression of Cry1 translates directly into a circadian regulation of cAMP signaling in hepatic glucose metabolism.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Rhythmic expression of Cry1 translates directly into a circadian regulation of cAMP signaling in hepatic glucose metabolism.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ribosomopathies have a high degree of cell and tissue specific pathology.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Risedronate increases risk of vertebral and non-vertebral fractures.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Risk of cardiovascular events can be cut by a third by using antihypertensive drug therapy among hemodialysis patients.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Risk-adjusted mortality rates are similar in teaching and non-teaching hospitals.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Risk-adjusted mortality rates are similar in teaching and non-teaching hospitals.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Rotator cuff exercises are more effective than general exercise therapy in reducing pain and improving function of the shoulder.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Satellite cell dysfunction is a key factor in sarcopenia development.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Satellite cell dysfunction is a key factor in sarcopenia development.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Scapular stabilizer exercises are more effective than general exercise therapy in reducing pain and improving function of the shoulder.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Scapular stabilizer exercises are more effective than general exercise therapy in reducing pain and improving function of the shoulder.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Scapular stabilizer exercises are more effective than general exercise therapy in reducing pain and improving function of the shoulder.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sepsis related mortality has remained stable between 2009-2014.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sepsis related mortality has remained stable between 2009-2014.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sepsis related mortality has risen from 2009 to 2014.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sepsis related mortality has risen from 2009 to 2014.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Side effects associated with antidepressants do not represent a mortality risk to postmenopausal women.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Side effects associated with antidepressants do not represent a mortality risk to postmenopausal women.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Side effects associated with antidepressants increases risk of stroke.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sildenafil worsens erectile function in men who experience sexual dysfunction as a result of the use of SSRI antidepressants.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sildenafil worsens erectile function in men who experience sexual dysfunction as a result of the use of SSRI antidepressants.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Smc5/6 engagment halts the activation of SUMO E3 ligase Mms21 by ATP-dependent remolding.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Splenomegaly is observed in knockin mouse lacking the SHP-2 MAPK pathway.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Stiff substrates encourage mesodermal differentiation by degrading beta-catenin in an integrin-dependent manner.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Stiff substrates inhibit mesodermal differentiation by degrading beta-catenin in an integrin-dependent manner.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Stroke patients with prior use of direct oral anticoagulants have a higher risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Stroke patients with prior use of direct oral anticoagulants have a higher risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Stroke patients with prior use of direct oral anticoagulants have a higher risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Stroke patients with prior use of direct oral anticoagulants have a higher risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Students who perform poorly in the early years of medical school are at increased risk for professional misconduct later in their careers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Students who perform poorly in the early years of medical school are at increased risk for professional misconduct later in their careers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Students who perform poorly in the early years of medical school are at increased risk for professional misconduct later in their careers.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Students who perform poorly in the early years of medical school are less likely to commit professional misconduct later in their careers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Students who perform poorly in the early years of medical school are less likely to commit professional misconduct later in their careers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Students who perform poorly in the early years of medical school are less likely to commit professional misconduct later in their careers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Suboptimal nutrition is a leading cause of premature death",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Suboptimal nutrition is a leading cause of premature death",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Surfactin producing cells and exopolymer producing cells cooperate to generate \"Van Gogh\" bundles that have sliding abilities on specialized media.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Surfactin producing cells and exopolymer producing cells cooperate to generate \"Van Gogh\" bundles that have sliding abilities on specialized media.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Surgical treatment is not superior to non-surgical in treating adults with displaced fractures of the proximal humerus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Surgical treatment is not superior to non-surgical in treating adults with displaced fractures of the proximal humerus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Surgical treatment is not superior to non-surgical in treating adults with displaced fractures of the proximal humerus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Surgical treatment is not superior to non-surgical in treating adults with displaced fractures of the proximal humerus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is elevated throughout normal pregnancy.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is elevated throughout normal pregnancy.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is elevated throughout normal pregnancy.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is elevated throughout normal pregnancy.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is elevated throughout normal pregnancy.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is elevated throughout normal pregnancy.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is reduced throughout normal pregnancy.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is reduced throughout normal pregnancy.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is reduced throughout normal pregnancy.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is reduced throughout normal pregnancy.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is reduced throughout normal pregnancy.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Sympathetic nerve activity is reduced throughout normal pregnancy.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Systemic immunosuppressive (IS) therapy does not enhance the chance of cancer mortality in patients with inflammatory eye disease (IED)",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Systemic immunosuppressive (IS) therapy does not enhance the chance of cancer mortality in patients with inflammatory eye disease (IED)",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Systemic immunosuppressive (IS) therapy increases the chance of cancer mortality in patients with inflammatory eye disease (IED)",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Systemic immunosuppressive (IS) therapy increases the chance of cancer mortality in patients with inflammatory eye disease (IED)",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Systemic lupus erythematosus is a risk factor for cardiovascular disease.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "T cell receptor /CD3 microdomains are required to induce the immunologic synapse.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "T cell receptor /CD3 microdomains are required to induce the immunologic synapse.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "TMEM27 is a marker for beta cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "TMEM27 is a marker for beta cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "TMEM27 is a marker for beta cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "TNFAIP3 is a glioblastoma tumor enhancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "TNFAIP3 is a glioblastoma tumor enhancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "TNFAIP3 is a glioblastoma tumor suppressor.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "TNFAIP3 is a glioblastoma tumor suppressor.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "TNFAIP3 is a tumor enhancer in glioblastoma.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "TNFAIP3 is a tumor enhancer in glioblastoma.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "TRAP+ osteoclasts regulate mature osteoblast maintenance.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Taking 400mg of \u03b1-tocopheryl acetate does not prevent prostate cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Taking 400mg of \u03b1-tocopheryl acetate does not prevent prostate cancer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Taking 400mg of \u03b1-tocopheryl acetate in combination with vitamin C reduces the risk of prostate cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Taking 400mg of \u03b1-tocopheryl acetate in combination with vitamin C reduces the risk of prostate cancer.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Taking anti-depresents is associated with a decrease in the A\u03b2 level in the brain of experimental animals.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Taxation of sugar-sweetened beverages reduced the incidence rate of type II diabetes in India.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Taxation of sugar-sweetened beverages reduced the incidence rate of type II diabetes in India.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Taxation of sugar-sweetened beverages reduced the incidence rate of type II diabetes in India.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ten percent (10%) of kidney cancers in the UK are attributable to excess weight.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The C-type lectin receptor (CLEC-2) rearranges the actin cytoskeleton in dendritic cells to promote efficient motility along stromal surfaces.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The C-type lectin receptor (CLEC-2) rearranges the actin cytoskeleton in dendritic cells to promote efficient motility along stromal surfaces.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The DESMOND program caused substantial weight loss in most participants.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The DESMOND program demonstrates no significant impact on biochemical outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The DESMOND program demonstrates no significant impact on biochemical outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The DESMOND program demonstrates no significant impact on biochemical outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The DESMOND program demonstrates no significant impact on lifestyles outcomes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The DESMOND program demonstrates no significant impact on weight loss.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The DdrB protein from Deinococcus radiodurans functions as a pentamer.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The M2-phenotype in brown adipose tissue macrophages increases brown adipose tissue thermogenic activity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The M2-phenotype in brown adipose tissue macrophages increases brown adipose tissue thermogenic activity.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The NF-\u03baB essential modulator gene induces intestinal inflammation by promoting receptor-interacting protein (RIP) kinase 1 kinase activity-mediated epithelial cell death.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The NF-\u03baB essential modulator gene induces intestinal inflammation by promoting receptor-interacting protein (RIP) kinase 1 kinase activity-mediated epithelial cell death.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The NF-\u03baB essential modulator gene prevents intestinal inflammation by inhibiting receptor-interacting protein (RIP) kinase 1 kinase activity-mediated epithelial cell death.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The NF-\u03baB essential modulator gene prevents intestinal inflammation by inhibiting receptor-interacting protein (RIP) kinase 1 kinase activity-mediated epithelial cell death.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The PDPN gene deactivates the C-type lectin receptor (CLEC-2).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The PDPN gene deactivates the C-type lectin receptor (CLEC-2).",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The PRDM1 gene is a key determinant of primordial germ cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The PRDM1 gene, when combined with the PRDM14 gene, plays an important role during primordial germ cell specification.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The RANK-RANK-Ligand (RANKL) pathway is involved in the development of Aire-expressing medullary thymic epithelial cells (mTECs).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The Snf1 complex regulates carbon and energy metabolism in baker's yeast (Saccharomyces cerevisiae).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The US health care system can save up to $5 billion if 7% of patients waiting for kidney transplants participate in the optimized national kidney paired donation program.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The combination of physical examinations with C-reactive protein values do not improve the accuracy of radiographic verified pneumonia predictions.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The combination of physical examinations with C-reactive protein values do not improve the accuracy of radiographic verified pneumonia predictions.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The deamination of cytidine to uridine on the minus strand of viral DNA can inactivate the viral genome by inducing G-to-A mutations.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The density of cytokine receptor bearing cells affects the distance over which cytokines act.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The density of cytokine receptor bearing cells has no effect on the distance over which cytokines act.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The generation of reactive oxygen species by activated oncogenes contributes to the increased genomic instability of leukaemia cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The generation of reactive oxygen species by activated oncogenes contributes to the increased genomic instability of leukaemia cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The innate immune response struggles to remove small numbers of parasites.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The latent infection of myeloid cells with human cytomegalovirus induces a number of changes in gene expression.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The latent infection of myeloid cells with human cytomegalovirus induces a number of changes in gene expression.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The latent infection of myeloid cells with human cytomegalovirus induces a number of changes in gene expression.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The latent infection of myeloid cells with human cytomegalovirus induces a number of changes in gene expression.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The mean suicide rate in women is higher after miscarriage than live birth.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The mean suicide rate in women is lower after miscarriage than live birth.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The microtubule-dependent delivery and secretion of matrix metalloproteases (MMPs) is partially responsible for the disassembly of adhesion sites.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The minor G allele of FOXO3 downregulates pro-inflammatory cytokines.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The minor G allele of FOXO3 is related to less severe symptoms of Crohn's Disease.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The minor G allele of FOXO3 up-regulates IL-10.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The most prevalent adverse events to Semaglutide are cardiovascular.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The most prevalent adverse events to Semaglutide are gastrointestinal.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The myocardial cell lineage originally develops from cardiac progenitors of exclusively endodermal origin.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The one-child policy has created a hospitable environment for female infants.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The peak incidence of fractures occurs during pubertal growth spurt in early adolescents.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The peak incidence of fractures occurs in toddlers.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The proliferative capacity of neural progenitors differs across species.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The proliferative capacity of neural progenitors differs across species.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The proliferative capacity of progenitors is regulated cell-autonomously.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The recruitment of Wdr5 to its target loci depends on Kat8.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is independent of the patient's genetic make-up.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is independent of the patient's genetic make-up.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is independent of the patient's genetic make-up.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The removal of reactive oxygen species by activated oncogenes contributes to the increased genomic instability of leukaemia cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The removal of reactive oxygen species by activated oncogenes contributes to the increased genomic instability of leukaemia cells.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The repeat-variable diresidue (RVD) in the loop of Transcription-Activator Like (TAL) effectors specifies the nucleotides-amino acid contact at the target promoter element.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The risk of breast cancer among parous women decreases with placental weight of pregnancies.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The risk of breast cancer among parous women decreases with placental weight of pregnancies.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "The risk of cancer rises with level of alcohol consumption.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The risk of cancer rises with level of alcohol consumption.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The risk of female prisoners harming themselves is ten times that of male prisoners.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The risk of female prisoners harming themselves is ten times that of male prisoners.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "The tissue surrounding the granuloma in an immune cell induces an anti-inflammatory immune response.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Therapeutics receiving accelerated approval encounter a lower frequency of post-marketing safety events",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is a positive correlation between hip fractures and statin use.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is a positive correlation between hip fractures and statin use.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is a positive correlation between hip fractures and statin use.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is a positive correlation between hip fractures and statin use.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is a relation between Erythromycin use and hypertrophic pyloric stenosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is a relation between Erythromycin use and hypertrophic pyloric stenosis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is no increased risk of hypospadias with clomiphene.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is no known interaction between Pioneer factor OCT3/4 and major chromatin remodeling factors.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is no known interaction between Pioneer factor OCT3/4 and major chromatin remodeling factors.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is no relation between Erythromycin use and hypertrophic pyloric stenosis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There is no relation between Erythromycin use and hypertrophic pyloric stenosis.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "There was an estimated 30 million cases of pneumonia in young children worldwide in 2010.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Tirasemtiv targets fast-twitch muscle.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Tirasemtiv targets fast-twitch muscle.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Trans-acting factors, such as lncRNAs, influence mRNA translation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Trans-acting factors, such as lncRNAs, influence mRNA translation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Trans-acting factors, such as lncRNAs, influence mRNA translation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Trans-acting factors, such as lncRNAs, influence mRNA translation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Trans-acting factors, such as lncRNAs, influence mRNA translation.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Transcription factor EB induces transcription of pro-inflammatory cytokines in macrophages infected with Staphylococcus aureus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Transplanted human glial progenitor cells can mature in their host animal.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Treatment with a protein named FN impairs regenerative abilities of aged muscles.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Treatment with a protein named FN impairs regenerative abilities of aged muscles.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Treatment with a protein named FN restores regenerative abilities of aged muscles.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Treatment with a protein named FN restores regenerative abilities of aged muscles.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Tuberculosis incidence occurs at higher rates in more sparsely populated areas in the UK.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Tuberculosis incidence occurs at higher rates in more sparsely populated areas in the UK.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Tuberculosis incidence occurs at higher rates in more sparsely populated areas in the UK.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Tuberculosis incidence occurs at higher rates in more sparsely populated areas in the UK.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Tuberculosis-induced granulomas express different immune system protein signatures than the surrounding tissue.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Tuberculosis-induced granulomas express different immune system protein signatures than the surrounding tissue.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Two variants of chromosome 6q21 are associated with radiation therapy-induced second malignancies in pediatric Hodgkin lymphoma patients.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Type 1 Diabetes is associated with subtle perturbations in T reg development.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Type 1 Diabetes is associated with subtle perturbations in T reg development.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Type 1 Diabetes is associated with subtle perturbations in T reg development.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ultrasound guidance significantly reduces the number of needle insertion attempts necessary for a given procedure.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ultrasound guidance significantly reduces the number of needle insertion attempts necessary for a given procedure.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ultrasound guidance significantly reduces the number of traumatic procedures when attempting needle insertion.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Ultrasound guidance significantly reduces the number of traumatic procedures when attempting needle insertion.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Upon developing tyrosine-kinase inhibitor resistance, new mutations in epidermal growth factor receptors emerge and cause treatment failure.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Upon developing tyrosine-kinase inhibitor resistance, new mutations in epidermal growth factor receptors emerge and cause treatment failure.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Upon viral challenge, influenza-specific memory CD4+ T cells greatly diminish the early production of inflammatory chemokines in the lung.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Upon viral challenge, influenza-specific memory CD4+ T cells greatly enhance the early production of inflammatory chemokines in the lung.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Upregulation of dynein in Drosophila neurons increases the number of microtubule plus-ends growing toward the cell body of each neuron.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "V-9302 inhibits antitumor responses by decreasing cell death and oxidative stress.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Vaccinating the gastrointestinal tract induces protection of rectal and vaginal mucosa.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Vaccinating the gastrointestinal tract induces protection of rectal and vaginal mucosa.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Vaccinating the gastrointestinal tract induces protection of rectal and vaginal mucosa.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Varenicline monotherapy is more effective after 26 weeks of treatment compared to combination nicotine replacement therapies with varenicline or bupropion.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Varying expression levels of EBI2 affect the positioning and migration of B cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Varying expression levels of EBI2 affect the positioning and migration of B cells.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "VgrG (Tssl) protein punctures membranes by forming a spike at the tip of the tube apparatus.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Vitamin D deficiency effects birth weight.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Vitamin D deficiency effects birth weight.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Vitamin D is an important factor in the relationship between calcium and parathyroid hormone.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Vitamin D is an important factor in the relationship between calcium and parathyroid hormone.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Walking in traffic areas in London did not improve lung function in elderly adults.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Walking in traffic areas in London did not improve lung function in elderly adults.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Walking in traffic areas in London did not improve lung function in elderly adults.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Walking in traffic areas in London improves lung function in elderly adults.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Walking in traffic areas in London improves lung function in elderly adults.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Walking in traffic areas in London improves lung function in elderly adults.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Whole brain radiotherapy increases the occurrence of new brain metastases.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Whole brain radiotherapy increases the occurrence of new brain metastases.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Women are more susceptible to death due to pneumonia when compared to men.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "Women with a lower birth weight are more likely to develop breast cancer later in life.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Women with a lower birth weight are more likely to develop breast cancer later in life.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Women with a lower birth weight are more likely to develop breast cancer later in life.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "Women with a lower birth weight are more likely to develop breast cancer later in life.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "YAP/TAZ is required in intestinal regeneration in mouse models of ulcerative colitis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "YAP/TAZ is required in intestinal regeneration in mouse models of ulcerative colitis.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "aPKCz causes tumour suppression by affecting glutamine metabolism.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "aPKCz causes tumour suppression by affecting glutamine metabolism.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "cSMAC formation represses weak ligand signalling.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "mcm 5 s 2 U is required for proper decoding of NNR codons in eukaryotes.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "miR-142-5P is a known regulator of raised body temperature.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "miR-142-5P is a temperature-sensitive microRNA (miRNA).",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "miRNAs enforce homeostasis by suppressing low-level ''leaky'' transcription.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "siRNA knockdown of A20 accelerates tumor progression in an in vivo murine xenograft model.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "siRNA knockdown of A20 accelerates tumor progression in an in vivo murine xenograft model.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "siRNA knockdown of A20 accelerates tumor progression in an in vivo murine xenograft model.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "siRNA knockdown of A20 accelerates tumor progression in an in vivo murine xenograft model.",
+    "label": 1,
+    "source": "scifact"
+  },
+  {
+    "claim": "siRNA knockdown of A20 slows tumor progression in an in vivo murine xenograft model.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "siRNA knockdown of A20 slows tumor progression in an in vivo murine xenograft model.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "siRNA knockdown of A20 slows tumor progression in an in vivo murine xenograft model.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "siRNA knockdown of A20 slows tumor progression in an in vivo murine xenograft model.",
+    "label": 0,
+    "source": "scifact"
+  },
+  {
+    "claim": "\u03b2-sheet opening occurs during pleurotolysin pore formation.",
+    "label": 0,
+    "source": "scifact"
+  }
+]
